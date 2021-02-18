@@ -39,8 +39,6 @@ int main()
 	system("pause");
 
 	SumNumbers(50, 100); //Task: 1.13
-	system("pause");
-
 
 	return 0;
 }
